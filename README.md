@@ -1,5 +1,7 @@
 # Ashford National Bank Linux Storage and Access Project
 
+Note: This is a hands-on technical portfolio project based on a simulated enterprise scenario ("Ashford Bank"). The requirements and business constraints were designed using AI to mirror real-world financial industry storage challenges.
+
 ## About this project
 
 This project is a full Linux server build for a fictional bank branch client called Ashford National Bank. The brief came from a branch IT officer who described a real problem: 25 staff members split between a Loans team and a Tellers team were storing files on whatever drive space was available, with no growth plan, no access control, and no automation.
